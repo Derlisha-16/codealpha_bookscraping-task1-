@@ -16,7 +16,8 @@ The final dataset is saved as an Excel file and uploaded to this repository.
 - GitHub
 
 ## File in this Repository
-[Download Scraped Excel File](./Book_scrap.xlsx)
+[Download Scraped Excel File](https://raw.githubusercontent.com/Derlisha-16/codealpha_bookscraping-task1-/main/Book_scrap.xlsx)
+
 
 ## Submitted By
 Derlisha  
